@@ -6,8 +6,7 @@ A responsive **Netflix Landing Page Clone** built using **HTML5** and **CSS3**. 
 
 ## 🚀 Live Demo
 
-🔗 https://sachin-netfli-x-clone.netlify.app/
-
+🌐 Live Demo: <https://streaming-ui-react.netlify.app/>
 
 
 ---
